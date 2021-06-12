@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: Twitter: @amedrezik , Instagram: @ahmed_adbulkareem7
+- 📫 How to reach me: Twitter: @amedrezik , Instagram: @ahmedrezik1
 
 I love biking 🚴‍ and  weightlifting 🏋️‍ 
 
