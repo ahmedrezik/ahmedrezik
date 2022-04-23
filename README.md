@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdulkareem Rezik</h1>
-<h3 align="center">Passionate Weightlifter, Software Engineer and Entrpenuer</h3>
+<h3 align="center">Passionate Weightlifter, Software Engineer and Entrepreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedrezik&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrezik" /> </p>
 
